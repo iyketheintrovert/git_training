@@ -1,2 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 This is the second line of text
+Making a third line for this lesson
+And the a fourth
